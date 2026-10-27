@@ -56,6 +56,10 @@ Aplikasi dapat dibuka di `http://127.0.0.1:8000`. Halaman login admin berada di 
 
 Untuk build aset produksi, jalankan `npm run build`.
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE).
